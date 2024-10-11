@@ -1,7 +1,7 @@
 Brendan Byrne 
 https://github.com/Byrnezy/a1-gettingstarted.git
 
-Glitch: https://cactus-fantasy-chef.glitch.me/
+Glitch: https://a1-byrnezy-brendan-byrne.glitch.me/ 
 
 This project shows the summary of who I am and my ability to investigate the different options for coding in CSS and JS. This project also shows obe of my favorite images. Lastly this project shows my focus on technical achievements as being higher than design achievements. 
 
